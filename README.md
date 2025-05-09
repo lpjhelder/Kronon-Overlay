@@ -12,7 +12,7 @@ Seja bem-vindo ao repositório de **releases públicas** do **Kronon Overlay** �
 Clique na aba “Releases” acima ou [clique aqui diretamente](https://github.com/lpjhelder/Kronon-Overlay/releases)
 
 🖼️  
-<img src="https://i.imgur.com/bFgX3nm.png" width="700" alt="Exemplo de onde clicar">
+<img src="https://imgur.com/w7YmBeB.png" width="700" alt="Exemplo de onde clicar">
 
 ---
 
@@ -23,7 +23,7 @@ Baixe um dos arquivos:
 - `Kronon-Overlay.zip` → Versão portátil (sem instalar)
 
 🖼️  
-<img src="https://i.imgur.com/xWB8Zzi.png" width="700" alt="Download da versão">
+<img src="https://imgur.com/3wNu9SH.png" width="700" alt="Download da versão">
 
 ---
 
@@ -47,15 +47,15 @@ Este repositório foi **resetado intencionalmente** e agora serve apenas como **
 ## 🆘 Suporte
 
 Em caso de dúvidas ou problemas:
-- Entre no nosso Discord: [https://discord.gg/seulink](https://discord.gg/seulink)
-- Ou envie o erro no canal #suporte
+- Entre no nosso Discord: [https://discord.gg/9BWNaDV4fN](https://discord.gg/9BWNaDV4fN)
+- Abra um ticket no Discord.
 
 ---
 
-## ✅ Exemplo de uso do overlay
+## ✅ Kronon overlay
 
 🖼️  
-<img src="https://i.imgur.com/BJ2JJeO.png" width="700" alt="Exemplo de Overlay em uso">
+<img src="https://imgur.com/VcQ2P8c.png" width="700" alt="Exemplo de Overlay em uso v1.0.0">
 
 ---
 

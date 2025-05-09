@@ -1,0 +1,28 @@
+# Ignorar arquivos .bat
+*.bat
+
+# node_modules (dependências locais)
+node_modules/
+
+# Pasta de build do Electron
+dist/
+
+# Arquivos de build do Electron Builder
+*.exe
+*.blockmap
+*.yml
+
+# Logs
+*.log
+
+# Configurações locais de IDEs/editors
+.vscode/
+.idea/
+
+# Arquivos temporários
+.DS_Store
+Thumbs.db
+
+# .env e outros dados sensíveis
+.env
+.env.local

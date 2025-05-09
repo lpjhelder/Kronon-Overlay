@@ -1,0 +1,39 @@
+{
+  "name": "kronon",
+  "version": "1.0.0",
+  "description": "Overlay Kronon em tempo real",
+  "main": "main.js",
+  "scripts": {
+    "build": "electron-builder",
+    "start": "electron ."
+  },
+  "author": "deusninguem",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.2.2",
+    "electron-builder": "^24.6.3"
+  },
+  "build": {
+    "appId": "com.kronon.overlay",
+    "productName": "Kronon Overlay",
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "icone.ico",
+      "sign": null,
+      "artifactName": "Kronon-Overlay-Setup-${version}.exe"
+    },
+    "publish": {
+      "provider": "github",
+      "owner": "lpjhelder",
+      "repo": "Kronon-Overlay"
+    }
+  },
+  "dependencies": {
+    "@electron/remote": "^2.1.2",
+    "electron-log": "^5.0.0",
+    "electron-updater": "^6.6.2"
+  }
+}
